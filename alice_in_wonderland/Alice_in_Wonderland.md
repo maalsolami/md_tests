@@ -17,7 +17,7 @@ published: 2025-11-09
 ---
 *** START OF BOOK 11 ***
 
-![cover](VRT/alice_in_wonderland_cover.jpg)
+![cover](alice_in_wonderland/alice_in_wonderland_cover.jpg)
 
 ## by Lewis Carroll
 
