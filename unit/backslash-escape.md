@@ -1,0 +1,49 @@
+## Markdown
+\\   backslash
+\`   backtick
+\*   asterisk
+\_   underscore
+\{\}  curly braces
+\[\]  square brackets
+\(\)  parentheses
+\#   hash mark
+\+   plus sign
+\-   minus sign (hyphen)
+\.   dot
+\!   exclamation mark
+
+- - -
+
+## Text
+```
+\\   backslash
+\`   backtick
+\*   asterisk
+\_   underscore
+\{\}  curly braces
+\[\]  square brackets
+\(\)  parentheses
+\#   hash mark
+\+   plus sign
+\-   minus sign (hyphen)
+\.   dot
+\!   exclamation mark
+```
+
+- - -
+
+## Output
+```
+<p>\   backslash
+`   backtick
+*   asterisk
+_   underscore
+{}  curly braces
+[]  square brackets
+()  parentheses
+#   hash mark
++   plus sign
+-   minus sign (hyphen)
+.   dot
+!   exclamation mark</p>
+```
